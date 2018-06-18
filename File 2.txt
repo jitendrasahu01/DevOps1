@@ -1,6 +1,7 @@
 Program 2
 
 Block 1
+<<<<<<< HEAD
 Changes done by dev1
 
 Block 2
